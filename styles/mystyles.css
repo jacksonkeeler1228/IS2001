@@ -1,0 +1,84 @@
+/* Jackson Keeler april 14,2022 */
+.sf {
+    font-size: 12px;
+}
+
+.fontsizeresume {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.background {
+    background-color: black;
+}
+
+.normalfont {
+    font-size: 25px;
+    position: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.normal {
+    font-weight: normal;
+}
+
+.fsresumenormal {
+    font-size: 18px;
+}
+
+.move {
+    padding-left: 100px;
+    justify-content: end;
+}
+
+.white {
+    color: aliceblue;
+}
+
+.normalfontbro {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.1;
+  display: block;
+  margin-top: 0.625rem;
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.center {
+    text-align: center;
+    position: center;
+    background-position: center;
+    object-position: center;
+    position: relative;
+}
+
+.background {
+    background-color: rgb(255, 220, 181);
+}
+
+.backgroundblack {
+    background-color: black;
+}
+
+.hrblack {
+    font-style: black;
+    border-color: black;
+    text-decoration-color: black;
+}
+
+.myfam {
+    font-size: 45px;
+}
+
+body {
+    background-color: #ffffff; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
